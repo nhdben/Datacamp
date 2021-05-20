@@ -11,12 +11,14 @@ housing benefits). Regression discontinuity is an intuitive and useful analysis 
 
 ## Project Tasks
 
-    1. Regression discontinuity: banking recovery
-    2. Graphical exploratory data analysis
-    3. Statistical test: age vs. expected recovery amount
-    4. Statistical test: sex vs. expected recovery amount
-    5. Exploratory graphical analysis: recovery amount
-    6. Statistical analysis: recovery amount
-    7. Regression modeling: no threshold
-    8. Regression modeling: adding true threshold
-    9. Regression modeling: adjusting the window
+1. Regression discontinuity: banking recovery
+1. Graphical exploratory data analysis
+1. Statistical test: age vs. expected recovery amount
+1. Statistical test: sex vs. expected recovery amount
+1. Exploratory graphical analysis: recovery amount
+1. Statistical analysis: recovery amount
+1. Regression modeling: no threshold
+1. Regression modeling: adding true threshold
+1. Regression modeling: adjusting the window
+
+
