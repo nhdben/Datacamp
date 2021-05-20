@@ -8,3 +8,15 @@ whether the incremental amount the bank earns exceeded the additional cost of as
 Threshold assignments like this also one occur in medicine (above a certain temperature you get medicine), education (above a certain test score students get admitted to a 
 special class), other areas of finance (above a certain wealth customers get different levels of service), and public sector (below a certain income someone is eligible for 
 housing benefits). Regression discontinuity is an intuitive and useful analysis method in any situation of a threshold assignment.
+
+## Project Tasks
+
+    1. Regression discontinuity: banking recovery
+    2. Graphical exploratory data analysis
+    3. Statistical test: age vs. expected recovery amount
+    4. Statistical test: sex vs. expected recovery amount
+    5. Exploratory graphical analysis: recovery amount
+    6. Statistical analysis: recovery amount
+    7. Regression modeling: no threshold
+    8. Regression modeling: adding true threshold
+    9. Regression modeling: adjusting the window
